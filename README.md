@@ -2,7 +2,7 @@
 
 **#TheSpiritOfLearning**
 
-<img align="left" width="100" height="100" src="https://avatars.githubusercontent.com/NekiroKankou">
+<img align="left" width="100" height="100" src="https://avatars.githubusercontent.com/KanakaNakazawa">
 
 > Hello, I'm Kanaka Nakazawa I Developer From Antasiazis Land. I Love Learning New Things, And Experimenting With Programming Languages
 
