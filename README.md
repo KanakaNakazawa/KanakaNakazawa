@@ -2,15 +2,15 @@
 
 **#TheSpiritOfLearning**
 
-<img align="right" width="100" height="100" src="https://avatars.githubusercontent.com/NekiroKankou">
+<img align="left" width="100" height="100" src="https://avatars.githubusercontent.com/NekiroKankou">
 
-> Hello, I'm Kanaka Nakazawa. I Developer From Antasiazis Land. I Love Learning New Things, And Experimenting With Programming Languages
+> Hello, I'm Kanaka Nakazawa I Developer From Antasiazis Land. I Love Learning New Things, And Experimenting With Programming Languages
 
 ```js
 var status = "Student"
 var name = "Kanaka Nakazawa"
 var age = Date.current.year - 2006
-console.log("My Name Is #{name} And My Age is #{age}, Now My Status is #{status}")
+console.log("My Name Is ${name} And My Age is #{age}, Now My Status is ${status}")
 ```
 
 <img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
